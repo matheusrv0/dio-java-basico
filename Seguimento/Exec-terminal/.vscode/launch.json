@@ -16,13 +16,7 @@
             "name": "AboutMe",
             "request": "launch",
             "mainClass": "AboutMe",
-            "args":[
-                "Matheus",
-                "Rondon",
-                "21",
-                "1.82",
-            ]
-            
+        
         }
     ]
 }
